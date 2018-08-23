@@ -18,7 +18,7 @@
 
 <!-- Setting for levelly fixed 2D URG -->
 <xacro:sensor_hokuyo name="hokuyo" parent="base_link">
-    <origin xyz="0.212 0 0.2485" rpy="0 0 0"/>
+    <origin xyz="0.212 0 0.2485" rpy="3.14 0 0"/>
 </xacro:sensor_hokuyo>
 
 
